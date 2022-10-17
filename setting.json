@@ -40,7 +40,7 @@
       ],
 	  "target":"riddles.net",
       "element-remove-selector":[
-        ".ezoic-ad ezoic-at-0 box-2 box-2220 adtester-container adtester-container-220",
+        ".ezoic-ad",
         ".jumbo",
 		".adbox-template",
 		".ezlazyload"
