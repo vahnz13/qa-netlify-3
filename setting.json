@@ -43,7 +43,8 @@
         ".ezoic-ad",
         ".jumbo",
 		".adbox-template",
-		".ezlazyload"
+		".ezlazyload",
+		".search-box"		
       ],
       "replace-string":[
         {
