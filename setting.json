@@ -38,6 +38,13 @@
         ".ad__title",
         "#footer-sticky-ad"
       ],
+	  "target":"riddles.net",
+      "element-remove-selector":[
+        ".ezoic-ad ezoic-at-0 box-2 box-2220 adtester-container adtester-container-220",
+        ".jumbo",
+		".adbox-template",
+		".ezlazyload"
+      ],
       "replace-string":[
         {
           "target":"https://stackoverflow.com",
